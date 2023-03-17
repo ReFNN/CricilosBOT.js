@@ -1,9 +1,3 @@
-// TOKEN BOT PRINCIPAL
-// TOKEN = 'MTA1MTU2NzIyNTQ2ODg4NzIwMQ.GEd0g1.pAmZN671tssjnPYg7qUajtxRZnRYVwn39s7D08'
-
-// TOKEN BOT TESTE
-// TOKEN = 'MTA1MzEyMDI0Njg2Njc4MDE3Mg.GeTKUZ.hOXmRYaIZrDixKHtfKkwsNyvIkQXNCpcRoWMa4'
-
 const Discord = require("discord.js");
 const client = new Discord.Client({ intents: [1, 512, 32768, 2, 128] });
 const config = require("./config.json");
