@@ -1,0 +1,19 @@
+{
+  "name": "cricilosbotjs",
+  "version": "1.0.0",
+  "description": "A bot for Discord using nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "Bot"
+  ],
+  "author": "ReFNN#0847",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "node": "^19.4.0"
+  }
+}
